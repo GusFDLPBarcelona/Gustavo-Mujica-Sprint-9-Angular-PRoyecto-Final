@@ -1,5 +1,32 @@
 # Nndvvs
 
+1.  Create proyect structure, this folder will contain frontend code and data.
+
+2. Install npm and dependencies.
+Aungular, latest.
+Node, Nodemon.
+Typescript.
+TailwindCSS with DaisyUi library.
+
+3.  Create directory for server. This folder will contain backend code and data.
+
+4.  Install npm and dependencies.
+Express.
+MySql2.
+
+5.
+
+
+
+
+
+
+
+
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.9.
 
 ## Development server
